@@ -1,0 +1,26 @@
+.text{
+    color:black;
+    background-color: pink;
+    font-size: medium;
+}
+
+.biggertext{
+    font-size: large;
+}
+
+#blue{
+    color: blue;
+    background-color: transparent;
+    font-size: x-large;
+}
+
+#green{
+    color: black;
+    background-color: greenyellow;
+    font-size: x-large;
+    font-weight: bold;
+
+}
+
+
+
